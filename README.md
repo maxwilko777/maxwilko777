@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @maxwilko777.
 - 👀 I’m interested in everything coding! I have experience with many languages such as Python, HTML, CSS, JavaScript, C# and Swift.
 - 🌱 I’m currently learning Website Development and IOS development at home while i study many other topics at college as a student.
+- 👨‍💻 I have worked with the following technologies (databases, frameworks, etc): SQL, SQLite, Django, HyperV. 
 - 💞️ I’m looking to collaborate on making various software to help busniesses and the public.
 - 📫 You can reach me through mjswilkinson@outlook.com or LinkedIn.
 
